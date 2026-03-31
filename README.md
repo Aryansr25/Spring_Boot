@@ -22,3 +22,10 @@ Spring Boot operates on the "Convention over Configuration" principle.
 * **Elimination of XML:** Removes the requirement for complex XML configuration files.
 * **Production-Ready Features:** Built-in support for metrics, health checks, and externalized configuration via Actuator.
 * **Simplified Build:** Starters reduce dependency management overhead in `pom.xml`.
+
+<img width="250" height="200" alt="image" src="https://github.com/user-attachments/assets/6000dc15-2f2a-4820-9d10-bb0200f3f934" />
+
+<img width="250" height="200" alt="image" src="https://github.com/user-attachments/assets/1d45603a-b6fa-45a0-a695-d469c56caf72" />
+
+<img width="250" height="200" alt="image" src="https://github.com/user-attachments/assets/e74dbc66-6329-4b47-aad1-7d5b50484e5a" />
+
